@@ -18,13 +18,17 @@ namespace ConsoleApp3.Builders
         {
             Console.WriteLine("Процесс создания уровня начат");
             ConcreteZoneBuilder builder = new ConcreteZoneBuilder();
+            MainShipBuilder player = new MainShipBuilder();
+            SpecialShipBuilder boss_builder = new SpecialShipBuilder();
             Random rnd = new Random();
             obj = new Level("Уровень");
-            int n = rnd.Next();
+            int n = rnd.Next()%10;
             for (int i = 0; i < n; i++)
             {
                 obj.Add(builder.CreateZone());
             }
+            obj.Add((MainShip)player.CreateShip());
+            obj.Add((BossShip)player.CreateShip());
             Console.WriteLine("Процесс создания уровня закончен");
             return (Level)obj;
         }

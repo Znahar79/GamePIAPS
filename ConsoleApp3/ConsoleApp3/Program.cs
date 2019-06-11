@@ -11,14 +11,17 @@ namespace ConsoleApp3
 {
     class Program
     {
-       public void Main(string[] args)
+       public static void Main(string[] args)
         {
             ZoneCreatorDir director = new ZoneCreatorDir();
+            Level level;
             bool is_game_end = false;
             while(is_game_end == false)
             {
-                director.CreateLevel();
+                level = director.CreateLevel();
+                is_game_end = true;
             }
+            Console.Read();
         }
         
     }

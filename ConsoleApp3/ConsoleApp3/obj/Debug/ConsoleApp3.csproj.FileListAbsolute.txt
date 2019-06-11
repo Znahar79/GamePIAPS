@@ -14,3 +14,10 @@ H:\Конструирование\Game\GamePIAPS\ConsoleApp3\ConsoleApp3\bin\Deb
 H:\Конструирование\Game\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 H:\Конструирование\Game\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
 H:\Конструирование\Game\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Артем\Desktop\Game\Game\GamePIAPS\GamePIAPS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -46,6 +46,7 @@
     <Compile Include="Builders\HubLocBuilder.cs" />
     <Compile Include="Builders\LevelBuilder.cs" />
     <Compile Include="Builders\MainShipBuilder.cs" />
+    <Compile Include="Builders\Moving.cs" />
     <Compile Include="Builders\PirateShipBuilder.cs" />
     <Compile Include="Builders\SpecialShipBuilder.cs" />
     <Compile Include="Component.cs" />

@@ -10,12 +10,24 @@ namespace ConsoleApp3.leaf
     class Level : Component
     {
         public List<Zone> zones = new List<Zone>();
+        private MainShip player;
+        private BossShip boss;
         public Level(String name) : base(name) { }
         public override void Add(Component c)
         {
             if (c.GetType() == typeof(Zone))
             {
                 zones.Add((Zone)c);
+            }
+            if (c.GetType() == typeof(MainShip))
+            {
+                player = (MainShip)c;
+
+            }
+            if (c.GetType() == typeof(BossShip))
+            {
+                boss = (BossShip)c;
+
             }
         }
 
